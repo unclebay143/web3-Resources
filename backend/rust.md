@@ -4,5 +4,5 @@ Rust Resources
 
 | #  |  Link | Brief  |  
 |---|---|---|
-|  1 | - [Learn Rust by example](https://doc.rust-lang.org/rust-by-example/) | Learn the basics of Rust with Examples |  
+|  1 | [Learn Rust by example](https://doc.rust-lang.org/rust-by-example/) | Learn the basics of Rust with Examples |  
 |   |   |   |   

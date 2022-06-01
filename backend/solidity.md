@@ -4,5 +4,5 @@ Solidity Resources
 
 | #  |  Link | Brief  |  
 |---|---|---|
-|  1 | - [Learn Solidity by example](https://solidity-by-example.org/) | Learn the basics of Solidity with Examples|  
+|  1 | [Learn Solidity by example](https://solidity-by-example.org/) | Learn the basics of Solidity with Examples|  
 |   |   |   |   
